@@ -446,3 +446,38 @@
   446  git branch history
   447  git branch
   448  history > history.txt
+<<<<<<< HEAD
+  449  git commit -m "added history"
+  450  git branch
+  451  git log
+  452  git add history.txt 
+  453  git commit -m "added history"
+  454  git log
+  455  git checkout milkshake-flavours 
+  456  git log
+  457  git branch
+  458  nano README.md 
+  459  git add README.md 
+  460  git commit -m "random readme changes"
+  461  git checkout history 
+  462  cat README.md 
+  463  git log
+  464  git branch 
+  465  rm README.md
+  466  echo "booya" > README.md
+  467  git add README.md 
+  468  git commit -m "random readme"
+  469  git checkout main
+  470  git log
+  471  git commit -m "random readme"
+  472* git 
+  473  git checkout history 
+  474  cat README.md 
+  475  rm README.md
+  476  echo "booya" > README.md
+  477  git add README.md 
+  478  git commit -m "random readme"
+  479  ls
+  480  history > history.txt
+=======
+>>>>>>> main
