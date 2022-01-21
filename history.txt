@@ -1,0 +1,480 @@
+    1  apt update
+    2  sudo apt update
+    3  sudo apt install pip
+    4  sudo apt install python3-venv
+    5  sudo apt update 
+    6  sudo apt upgrade
+    7  pip install requests
+    8  venv
+    9  python3 venv
+   10  sudo apt install python-venv
+   11  sudo apt install venv
+   12  sudo apt-get update
+   13  python3 -V
+   14  sudo apt-get install -y python3-pip
+   15  pip3 install package_name
+   16  sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+   17  sudo apt-get install -y python3-venv
+   18  mkdir test
+   19  cd test/
+   20  python -m venv
+   21  python3 -m venv
+   22  source /bin/activate
+   23  cd..
+   24  cdexit
+   25  cd ..
+   26  source 
+   27  environment1
+   28  source 
+   29  environment1
+   30  test source 
+   31  environment1
+   32  /bin/activate
+   33  pip3 install virtualenv
+   34  cd /
+   35  cd \\
+   36  cd ..
+   37  cd ~
+   38  cd..
+   39  sudo su --
+   40  ls
+   41  cd env/
+   42  ls 
+   43  cd ansible/
+   44  ls
+   45  cd bin/
+   46  ls
+   47  cd ..
+   48  cd..
+   49  cd ..
+   50  rm ansible/
+   51  rmdir ansible/
+   52  sudo rmdir ansible/
+   53  sudo rm -d ansible/
+   54  sudo rm -r ansible/
+   55  ls
+   56  python -m virtualenv ansible
+   57  apt int virtualenv
+   58  apt install virtualenv
+   59  pip install virtualenv
+   60  virtualenv ansible
+   61  ls
+   62  python3 -m
+   63  python3 -m virtualenv ansible
+   64  sudo python3 -m virtualenv ansible
+   65  ls
+   66  cd ansible/
+   67  source ansible/bin/activate
+   68  source ?
+   69  ansible/bin/activate
+   70  cd ..
+   71  source ansible/bin/activate
+   72  python3 -m pip install ansible
+   73  sudo python3 -m pip install ansible
+   74  cd ansible/
+   75  ls
+   76  deactivate 
+   77  python3 -m virtualenv ansible1
+   78  sudo python3 -m virtualenv ansible1
+   79  cd ..
+   80  ls
+   81  sudo python3 -m virtualenv ansible1
+   82  ls
+   83  cd ansible1
+   84  source ansible/bin/activate
+   85  source ansible1/activate
+   86  source ansible1/bin/activate
+   87  source ?
+   88  source ansible/bin/activate
+   89  source ansible1/bin/activate
+   90  sudo source ansible1/bin/activate
+   91  cd ..
+   92  ls
+   93  source ansible1/bin/activate
+   94  pip3 install ansible==
+   95  sudo pip3 install ansible
+   96  ansible ==
+   97  ansible ==version
+   98  ansible == version
+   99  cd ansible1
+  100  ls
+  101  nano pyvenv.cfg 
+  102  /bin/python3 "/home/marlon/umuzi/level 0/#task 03.py"
+  103  /bin/python3 "/home/marlon/umuzi/level 0/#task 04.py"
+  104  clear
+  105  /bin/python3 "/home/marlon/umuzi/level 0/#task 05.py"
+  106  clear
+  107  /bin/python3 "/home/marlon/umuzi/level 0/#task 05.py"
+  108  clear
+  109  /bin/python3 "/home/marlon/umuzi/level 0/#task 06.py"
+  110  /bin/python3 "/home/marlon/umuzi/level 0/#task 07.py"
+  111  clear
+  112  /bin/python3 "/home/marlon/umuzi/level 0/#task 07.py"
+  113  /bin/python3 "/home/marlon/umuzi/level 0/#task 08.py"
+  114  clear
+  115  /bin/python3 "/home/marlon/umuzi/level 0/#task 09.py"
+  116  clear
+  117  /bin/python3 "/home/marlon/umuzi/level 0/#task 09.py"
+  118  clear
+  119  /bin/python3 "/home/marlon/umuzi/level 0/#task 09.py"
+  120  clear
+  121  /bin/python3 "/home/marlon/umuzi/level 0/#task 09.py"
+  122  /bin/python3 "/home/marlon/umuzi/level 0/#task 10.py"
+  123  /bin/python3 "/home/marlon/umuzi/level 0/#task 03.py"
+  124  clear
+  125  /bin/python3 "/home/marlon/umuzi/level 0/#task 01.py"
+  126  /bin/python3 "/home/marlon/umuzi/level 0/#task 02.py"
+  127  apt  update
+  128  sudo apt  update
+  129  sudo apt  upgrade
+  130  sudo apt update
+  131  sudo apt upgrade 
+  132  sudo apt install ./google-chrome-stable_current_amd64.deb
+  133  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  134  sudo apt install ./google-chrome-stable_current_amd64.deb
+  135  sudo apt update
+  136  clear
+  137  /bin/python3 "/home/marlon/umuzi/level 0/#task 10.py"
+  138  /bin/python3 "/home/marlon/umuzi/level 0/#task 04.py"
+  139  /bin/python3 "/home/marlon/umuzi/level 0/#task 06.py"
+  140  clear
+  141  /bin/python3 "/home/marlon/umuzi/level 0/#task 06.py"
+  142  /bin/python3 "/home/marlon/umuzi/level 0/#task 08.py"
+  143  /bin/python3 "/home/marlon/umuzi/level 0/test.py"
+  144  clear
+  145  /bin/python3 "/home/marlon/umuzi/level 0/#task 08.py"
+  146  clear
+  147  /bin/python3 "/home/marlon/umuzi/level 0/test.py"
+  148  /bin/python3 "/home/marlon/umuzi/level 0/#task 08.py"
+  149  /bin/python3 "/home/marlon/umuzi/level 0/test.py"
+  150  /bin/python3 "/home/marlon/umuzi/level 0/#task 10.py"
+  151  clear
+  152  /bin/python3 "/home/marlon/umuzi/level 0/test.py"
+  153  /bin/python3 "/home/marlon/umuzi/level 0/#task 09.py"
+  154  /bin/python3 "/home/marlon/umuzi/level 0/test.py"
+  155  /bin/python3 "/home/marlon/umuzi/level 0/#task 06.py"
+  156  /bin/python3 "/home/marlon/umuzi/level 0/#task 08.py"
+  157  /bin/python3 "/home/marlon/umuzi/level 0/#task 09.py"
+  158  /bin/python3 "/home/marlon/umuzi/level 0/#task 04.py"
+  159  /bin/python3 "/home/marlon/umuzi/level 0/#task 09.py"
+  160  clear
+  161  /bin/python3 "/home/marlon/umuzi/level 0/#task 09.py"
+  162  /bin/python3 "/home/marlon/umuzi/level 0/#task 10.py"
+  163  clear
+  164  /bin/python3 "/home/marlon/umuzi/level 0/test.py"
+  165  /bin/python3 "/home/marlon/umuzi/level 0/#task 09.py"
+  166  /bin/python3 "/home/marlon/umuzi/level 0/#task 10.py"
+  167  /bin/python3 "/home/marlon/umuzi/level 0/#task 09.py"
+  168  clier
+  169  clear
+  170  /bin/python3 "/home/marlon/umuzi/level 0/#task 08.py"
+  171  git config --global user.email marlon.cameron@umuzi.org
+  172  sudo apt install git
+  173  sudo pip install numpy
+  174  sudo apt update 
+  175  sudo apt upgrade 
+  176  sudo apt update 
+  177  sudo apt update
+  178  sudo apt upgrade
+  179  mkdir git-basic-exercises
+  180  cd git-basic-exercises/
+  181  ls -a 
+  182  git init
+  183  ls -a 
+  184  git status 
+  185  touch README.md
+  186  ls -a 
+  187  git status 
+  188  git log 
+  189  git add 
+  190  git add README.md
+  191  git status 
+  192  git rm
+  193  git rm README.md 
+  194  git status 
+  195  git rm --cached README.md 
+  196  git status 
+  197  git add README.md
+  198  git commit -m "initial commit"
+  199  git config --global user.email marlon.cameron3@gmail.com
+  200  git config --global user.name "Your Name"
+  201  git config --global user.name marloncameron
+  202  git commit -m "initial commit"
+  203  git log
+  204  nano README.md
+  205  cat README.md 
+  206  git status 
+  207  git commit -m "initial commit"
+  208  git commit -m 
+  209  git commit -m "initial commit"
+  210  git add README.md
+  211  git commit -m "initial commit"
+  212  nano README.md
+  213  git commit -m "initial commit"
+  214  git add README.md
+  215  git commit -m "initial commit"
+  216  nano README.md
+  217  git add README.md
+  218  git commit -m "initial commit"
+  219  git log 
+  220  git commit
+  221  git add README.md
+  222  git commit -m "initial commit"
+  223  git add README.md
+  224  git commit -m "initial commit"
+  225  nano README.md
+  226  cat README.md 
+  227  nano README.md
+  228  cat README.md 
+  229  git log 
+  230  q
+  231  nano README.md
+  232  git commit -m
+  233  git commit
+  234  git commit -a
+  235  git log
+  236  git
+  237  ls
+  238  cd git-basic-exercises/
+  239  git log
+  240  git status 
+  241  git init
+  242  git checkout
+  243  git checkout 05a7df7a440692904ec2322473652bdf6e2e3404
+  244  cat README.md
+  245  git checkout main
+  246  cat README.md
+  247  git branch 
+  248  git checkout 
+  249  git branch 
+  250  git checkout main
+  251  git checkout -b milkshake-flavours
+  252  git branch 
+  253  git *
+  254  git branch *
+  255  git branch 
+  256  nano milkshakes.md
+  257  git status 
+  258  git commit -m "initial flavour"
+  259  git add ilkshakes.md
+  260  git add milkshakes.md
+  261  git commit -m "initial flavour"
+  262  git status 
+  263  git log
+  264  git checkout -b history
+  265  git branch 
+  266  git log
+  267  history > history.txt
+  268  git log
+  269  git add history.txt 
+  270  git commit -m ""
+  271  git log
+  272  git checkout milkshake-flavours 
+  273  nano milkshakes.md
+  274  git add milkshakes.md
+  275  git commit -m "second flavour"
+  276  nano milkshakes.md
+  277  git add milkshakes.md
+  278  git commit -m "third flavour"
+  279  git log
+  280  git checkout history 
+  281  cat README.md
+  282  rm README.md
+  283  echo "booya" > README.md
+  284  cat README.md
+  285  git add README.md
+  286  git commit -m "rewrote readme"
+  287  git log
+  288  git checkout main
+  289  ls
+  290  git branch 
+  291  git checkout
+  292  ls
+  293  git branch 
+  294  git checkout -b main
+  295  git branch 
+  296  git checkout main
+  297  git branch 
+  298  ls
+  299  git log
+  300  git checkout main
+  301  git checkout milkshake-flavours
+  302  git log
+  303  git checkout history
+  304  git log
+  305  git log outputs
+  306  git log output
+  307  git log outputs
+  308  git checkout main
+  309  git merge milkshake-flavours
+  310  git checkout history
+  311  git log
+  312  git checkout milkshake-flavours
+  313  git log
+  314  git checkout Y
+  315  git remote add origin https://github.com/marloncameron/git-basic-exercises.git
+  316  git branch -M main
+  317  git push -u origin main
+  318  git remote add origin https://github.com/marloncameron/git-basic-exercises.git
+  319  git push -u origin main
+  320  git push --all origin -u
+  321  cd ../
+  322  git clone https://github.com/Umuzi-org/a-repo-to-clone
+  323  cd a-repo-to-clone/
+  324  git branch 
+  325  git log 
+  326  git branch -a
+  327  checkout project/git-basic-exercises
+  328  git remote -v
+  329  get branch
+  330  git branch
+  331  git branch -a
+  332  cd
+  333  mkdir this-will-be-another-repo
+  334  cd this-will-be-another-repo/
+  335  git init
+  336  ls
+  337  touch README.md
+  338  cd
+  339  cd git-basic-exercises/
+  340  git log
+  341  touch ignore-me.db
+  342  git status 
+  343  nano .gitignore
+  344  git status 
+  345  cd
+  346  mkdir large-directory-that-should-be-local-only
+  347  cd large-directory-that-should-be-local-only/
+  348  cd ..
+  349  cd git-basic-exercises/
+  350  mkdir large-directory-that-should-be-local-only
+  351  git status 
+  352  nano .gitignore
+  353  git status 
+  354  git add .gitignore
+  355  git commit -m "added .gitignore"
+  356  git push
+  357  apt update
+  358  sudo update
+  359  sudo apt update
+  360  sudo apt upgrade 
+  361  /bin/python3 /home/marlon/umuzi/test1.py
+  362  apt update
+  363  sudo apt update
+  364  apt upgrade 
+  365  sudo apt update
+  366  sudo apt upgrade 
+  367  ls
+  368  cd git-basic-exercises/
+  369  ls
+  370  git init
+  371  ls -a
+  372  sit status
+  373  git status
+  374  git log
+  375  git commit -m "initial commit"
+  376  git log
+  377  ls
+  378  rm milkshakes.md
+  379  rm milkshakes.md.save 
+  380  rm README.md
+  381  rm README.md.save 
+  382  ls
+  383  rm ignore-me.db 
+  384  rm large-directory-that-should-be-local-only/
+  385  help rm
+  386  rm help
+  387  rm ?
+  388  rm manual
+  389  rm -r large-directory-that-should-be-local-only/
+  390  ls
+  391  touch README.md
+  392  git status
+  393  ls
+  394  git add 
+  395  git add README.md ?
+  396  git add README.md
+  397  git status
+  398  git restore
+  399  git restore --staged README.md
+  400  git status
+  401  git add README.md
+  402  git commit -m "initial commit"
+  403  nano README.md 
+  404  cat README.md 
+  405  git status
+  406  git commit -m "second commit"
+  407  nano README.md 
+  408  git commit -m "third commit"
+  409  git log
+  410  nano README.md 
+  411  git commit -m "secound commit"
+  412  git push
+  413  git log
+  414  nano README.md 
+  415  git commit -m "secound commit"
+  416  git log
+  417  nano README.md 
+  418  git commit -m "secound commit"
+  419  git add README.md
+  420  git commit -m "secound commit"
+  421  git log
+  422  nano README.md 
+  423  git add README.md
+  424  git commit -m "third commit"
+  425  git log
+  426  git checkout 0610e10f98e7ce676c6cd2eb39ea2ffd52e8d8de
+  427  cat README.md 
+  428  git checkout main
+  429  cat README.md 
+  430  git branch 
+  431  git checkout milkshake-flavours
+  432  git branch 
+  433  nano milkshakes.md
+  434  git status 
+  435  git add milkshakes.md "added initial flavours"
+  436  git add milkshakes.md "initial flavours"
+  437  git add milkshakes.md
+  438  git commit -m "initial flavours"
+  439  git log
+  440  git checkout main
+  441  git branch 
+  442  git branch -d master
+  443  git branch
+  444  git branch -d history 
+  445  git branch
+  446  git branch history
+  447  git branch
+  448  history > history.txt
+  449  git commit -m "added history"
+  450  git branch
+  451  git log
+  452  git add history.txt 
+  453  git commit -m "added history"
+  454  git log
+  455  git checkout milkshake-flavours 
+  456  git log
+  457  git branch
+  458  nano README.md 
+  459  git add README.md 
+  460  git commit -m "random readme changes"
+  461  git checkout history 
+  462  cat README.md 
+  463  git log
+  464  git branch 
+  465  rm README.md
+  466  echo "booya" > README.md
+  467  git add README.md 
+  468  git commit -m "random readme"
+  469  git checkout main
+  470  git log
+  471  git commit -m "random readme"
+  472* git 
+  473  git checkout history 
+  474  cat README.md 
+  475  rm README.md
+  476  echo "booya" > README.md
+  477  git add README.md 
+  478  git commit -m "random readme"
+  479  ls
+  480  history > history.txt
