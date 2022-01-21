@@ -446,6 +446,7 @@
   446  git branch history
   447  git branch
   448  history > history.txt
+<<<<<<< HEAD
   449  git commit -m "added history"
   450  git branch
   451  git log
@@ -478,3 +479,5 @@
   478  git commit -m "random readme"
   479  ls
   480  history > history.txt
+=======
+>>>>>>> main
